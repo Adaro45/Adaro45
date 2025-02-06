@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>A photography portfolio website using React for the frontend and Django Rest Framework for the backend, focusing on clean design and showcasing photography.<br><br>
+🔭 I’m currently working on:<br>A website named [Romana Centro](romancentro.com) using React for the frontend..<br><br>
 👯 I’m looking to collaborate on:<br>Full-stack development projects, especially those involving React, Django, geospatial information systems, or solutions using Leaflet and Geoserver.<br><br>
 🤝 I’m looking for help with:<br>Improving optimization and scalability in Django systems, and learning best practices for Linux server configuration for web applications.<br><br>
 🌱 I’m currently learning:<br>Advanced Python and Java development, Linux system administration, and best practices in software architecture for scalable environments.<br><br>💬 Ask me about:<br>React.js, Django Rest Framework, Leaflet, Geoserver, or how to develop environmental information systems like SIAM, the project I worked on for my thesis.<br><br>
